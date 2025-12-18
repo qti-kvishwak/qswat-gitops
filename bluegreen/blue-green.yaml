@@ -1,6 +1,6 @@
 
 # ------------------------------
-# Namespace (already exists for you, but safe to keep)
+# Namespace 
 # ------------------------------
 apiVersion: v1
 kind: Namespace
